@@ -1,4 +1,4 @@
-using System
+using System;
 using UnityEngine;
 
 [CreateAssetMenu(fileName ="Base Unit", menuName ="Units")]
