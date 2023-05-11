@@ -117,7 +117,7 @@ public class GameManager : MonoBehaviour
 
     private void HandleEnemyTurn()
     {
-
+        //AI intergration
     }
 
     private void BattleWon()
